@@ -1,12 +1,13 @@
-@import url('https://fonts.googleapis.com/css?family=Barrio');
+@import url('https://fonts.googleapis.com/css?family=Barrio|Roboto');
 body{
   width:95vw;
   height:95vh;
-  background-color:#b2557d;
-  font-family:'Barrio', cursive;  
+  background-color:#b2557d;  
 }
 .container{
   height:100%;
   width:100%;
-  color:yellow; 
+  background-color:yellow;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Barrio', cursive;
 }
