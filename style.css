@@ -1,13 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Barrio|Roboto');
 body{
-  width:95vw;
-  height:95vh;
-  background-color:#b2557d;  
-}
-.container{
-  height:100%;
-  width:100%;
-  background-color:yellow;
   font-family: 'Roboto', sans-serif;
   font-family: 'Barrio', cursive;
+  width:95vw;
+  height:95vh;
+  background-color:#b2557d;
 }
+body {
+     background-image:url(https://qph.ec.quoracdn.net/main-qimg-f46fe961b221ce33228385f6f8914399-c)
+    }
+
