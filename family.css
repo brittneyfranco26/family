@@ -1,6 +1,5 @@
  @import url('https://fonts.googleapis.com/css?family=Barrio|Roboto');
 body{
-  font-family: 'Barrio', cursive ;
   font-family: 'Roboto', sans-serif ;
   width:95vw;
   height:95vh;
@@ -106,13 +105,13 @@ text-shadow: 1px 0 2px #595859;
 font-size: 5.5rem;
 margin:0;
 padding-top: 200px;
-font-family: 'Abril Fatface', serif;
+font-family: 'Roboto', serif;
 color: #fff;
 }
 
 .hero h3 {
 padding-bottom: 250px;
-font-family: 'Quicksand', sans-serif;
+font-family: 'Roboto', sans-serif;
 font-style: italic;
 color: #fff;
 font-size: 1.7rem;
