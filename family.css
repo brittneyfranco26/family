@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Barrio|Chelsea+Market');
+
 .clearfix:after {visibility: hidden; display: block; font-size: 0; content: " "; clear: both; height: 0; }
 
 * { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;  }
@@ -8,7 +10,7 @@ margin: 0 auto;
 }
 
 h2, h4 {
-font-family: 'Abril Fatface', serif;
+font-family: 'Barrio', cursive;
 }
 
 h2 {
@@ -29,6 +31,7 @@ height: 30%;
 width: 50%;
 display: inline-block;
 float: center;
+font-family: 'Chelsea Market', cursive;
 }
 .twoblock{
 font-size: 30px;
@@ -36,6 +39,7 @@ height: 30%;
 width: 50%;
 display: inline-block;
 float: center;
+font-family: 'Chelsea Market', cursive;
 }
 .ablock{
 font-size: 30px;
@@ -43,6 +47,7 @@ height: 30%;
 width: 50%;
 display: inline-block;
 float: center;
+font-family: 'Chelsea Market', cursive;
 }
 
 /* NAV SECTION */
@@ -54,7 +59,7 @@ float: left;
 color: #fff;
 width: 45%;
 background: rgba(0,0,0,0.7);
-font-family: 'Josefin Sans', sans-serif;
+font-family: 'Barrio', cursive;
   font-weight: 400;
 font-size: 1.8rem;
 text-align: left;
@@ -100,7 +105,7 @@ color: #fff;
 margin: 0;
 display: inline-block;
 text-transform: uppercase;
-font-family: 'Quicksand', sans-serif;
+font-family: 'Barrio', cursive;
 font-size: 1rem;
 }
 
@@ -126,13 +131,13 @@ text-shadow: 1px 0 2px #595859;
 font-size: 5.5rem;
 margin:0;
 padding-top: 200px;
-font-family: 'Abril Fatface', serif;
+font-family: 'Barrio', cursive;
 color: #fff;
 }
 
 .hero h3 {
 padding-bottom: 250px;
-font-family: 'Quicksand', sans-serif;
+font-family: 'Barrio', cursive;
 font-style: italic;
 color: #fff;
 font-size: 1.7rem;
