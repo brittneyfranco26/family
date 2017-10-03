@@ -1,10 +1,3 @@
- @import url('https://fonts.googleapis.com/css?family=Barrio|Roboto');
-body{
-  font-family: 'Roboto', sans-serif ;
-  width:95vw;
-  height:95vh;
- background-color:#b2557d;
-}
 .clearfix:after {visibility: hidden; display: block; font-size: 0; content: " "; clear: both; height: 0; }
 
 * { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;  }
@@ -15,7 +8,7 @@ margin: 0 auto;
 }
 
 h2, h4 {
-font-family: 'Barrio', cursive;
+font-family: 'Abril Fatface', serif;
 }
 
 h2 {
@@ -23,6 +16,33 @@ font-size: 3rem;
 text-align: center;
 padding-top: 100px;
 margin: 0 0 30px 0;
+}
+.container{
+height: 100%;
+width: 100%;
+text-align:center;
+}
+
+.oneblock{
+font-size: 30px;
+height: 30%;
+width: 50%;
+display: inline-block;
+float: center;
+}
+.twoblock{
+font-size: 30px;
+height: 30%;
+width: 50%;
+display: inline-block;
+float: center;
+}
+.ablock{
+font-size: 30px;
+height: 30%;
+width: 50%;
+display: inline-block;
+float: center;
 }
 
 /* NAV SECTION */
@@ -91,6 +111,7 @@ outline: none;
 /* HEAD SECTION */
 
 header {
+background-image: url("https://vignette.wikia.nocookie.net/animaljam/images/4/40/Cherry_blossom_2.gif/revision/latest?cb=20150410214027");
 background-color: Pink;
 background-size: cover;
 background-attachment: fixed;
@@ -105,13 +126,13 @@ text-shadow: 1px 0 2px #595859;
 font-size: 5.5rem;
 margin:0;
 padding-top: 200px;
-font-family: 'Roboto', serif;
+font-family: 'Abril Fatface', serif;
 color: #fff;
 }
 
 .hero h3 {
 padding-bottom: 250px;
-font-family: 'Roboto', sans-serif;
+font-family: 'Quicksand', sans-serif;
 font-style: italic;
 color: #fff;
 font-size: 1.7rem;
